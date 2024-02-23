@@ -1,7 +1,7 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 # IT Academy Barcelona Activa - Reskilling Bootcamp en Ciencia de Datos y Programación
-
-## Abril 2023 - Septiembre 2023
-
 Este repositorio contiene los proyectos y ejercicios desarrollados durante mi participación en el bootcamp de Reskilling en Ciencia de Datos y Programación, ofrecido por la IT Academy de Barcelona Activa. A lo largo de este curso intensivo, he adquirido y aplicado un conjunto diverso de competencias esenciales en el ámbito de la tecnología de la información, centradas especialmente en la Ciencia de Datos y la Programación.
 
 ### Competencias Adquiridas
