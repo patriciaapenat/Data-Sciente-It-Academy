@@ -1,6 +1,7 @@
 <p align="left">
   <a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python" height="40"/></a>
   <a href="https://jupyter.org/try"><img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="Made with Jupyter" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=MySQL" alt="Made with MySQL" height="40"/></a>
 </p>
 
 # IT Academy Barcelona Activa - Reskilling Bootcamp en Ciencia de Datos y Programación
