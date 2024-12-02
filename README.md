@@ -1,11 +1,11 @@
-<p align="left">
+    <p align="left">
   <a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python" height="40"/></a>
   <a href="https://jupyter.org/try"><img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="Made with Jupyter" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=MySQL" alt="Made with MySQL" height="40"/></a>
 </p>
 
-# IT Academy Barcelona Activa - Reskilling Bootcamp en Ciencia de Datos y Programación
-Este repositorio contiene los proyectos y ejercicios desarrollados durante mi participación en el bootcamp de Reskilling en Ciencia de Datos y Programación, ofrecido por la IT Academy de Barcelona Activa. A lo largo de este curso intensivo, he adquirido y aplicado un conjunto diverso de competencias esenciales en el ámbito de la tecnología de la información, centradas especialmente en la Ciencia de Datos y la Programación.
+# IT Academy Barcelona Activa - Bootcamp en Ciencia de Datos y Programación
+Este repositorio contiene los proyectos y ejercicios desarrollados durante mi participación en el bootcamp de Ciencia de Datos y Programación, ofrecido por la IT Academy de Barcelona Activa. A lo largo de este curso intensivo, he adquirido y aplicado un conjunto diverso de competencias esenciales en el ámbito de la tecnología de la información, centradas especialmente en la Ciencia de Datos y la Programación.
 
 ### Competencias Adquiridas
 
